@@ -1,4 +1,4 @@
-### Hello, World 👋!! Eduardo Carneiro!! 👋
+### Hello, World 👋!! My name is Eduardo Carneiro!! 
 
 
 - 🔭Em busca do primeiro emprego como desenvolvedor.  
