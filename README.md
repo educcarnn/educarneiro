@@ -3,7 +3,7 @@
 
   
 
-- 🌱Atualmente estou aprendendo React Native.  
+- 🌱Atualmente estou aprendendo NodeJs.  
 
 - ⚡ Graduando em Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
   
