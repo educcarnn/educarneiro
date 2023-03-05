@@ -5,7 +5,7 @@
 
 - 🌱Atualmente estou aprendendo NodeJs.  
 
-- ⚡ Graduando em Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
+- ⚡ Graduando em Tecnologia da Informação
   
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=educcarnn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
