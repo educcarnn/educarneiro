@@ -3,8 +3,6 @@
 
   
 
-- 🌱Atualmente estou aprendendo NodeJs.  
-
 - ⚡ Graduando em Tecnologia da Informação
   
 ## Github Stats  
