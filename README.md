@@ -3,7 +3,7 @@
 
   
 
-- ⚡ Graduando em Tecnologia da Informação (3° Período)
+- ⚡ Graduando em Tecnologia da Informação (4° Período)
   
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=educcarnn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
